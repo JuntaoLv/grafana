@@ -48,8 +48,8 @@
       "scopedVars": {
         "clusterid": {
           "selected": true,
-          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux",
-          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux"
+          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux",
+          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux"
         }
       },
       "title": "Cluster - Overview & utilization",
