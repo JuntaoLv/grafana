@@ -29,7 +29,7 @@
       "title": "Azure Monitor - Container Insights",
       "tooltip": "Click here to open Azure Monitor Ux for this cluster",
       "type": "link",
-      "url": "https://portal.azure.com/#@MCIndustries964.onmicrosoft.com/resource$clusterid/FluxAutoMan"
+      "url": "https://portal.azure.com/#@mcindustries965.onmicrosoft.com/resource$clusterid/FluxAks"
     }
   ],
   "panels": [
@@ -97,8 +97,8 @@
       "scopedVars": {
         "clusterid": {
           "selected": true,
-          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux",
-          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux"
+          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux",
+          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux"
         }
       },
       "targets": [
@@ -179,8 +179,8 @@
       "scopedVars": {
         "clusterid": {
           "selected": true,
-          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux",
-          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux"
+          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux",
+          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux"
         }
       },
       "targets": [
@@ -267,8 +267,8 @@
       "scopedVars": {
         "clusterid": {
           "selected": true,
-          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux",
-          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux"
+          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux",
+          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux"
         }
       },
       "seriesOverrides": [],
@@ -401,8 +401,8 @@
       "scopedVars": {
         "clusterid": {
           "selected": true,
-          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux",
-          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux"
+          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux",
+          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux"
         }
       },
       "seriesOverrides": [],
@@ -535,8 +535,8 @@
       "scopedVars": {
         "clusterid": {
           "selected": true,
-          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux",
-          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux"
+          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux",
+          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux"
         }
       },
       "seriesOverrides": [],
@@ -670,8 +670,8 @@
       "scopedVars": {
         "clusterid": {
           "selected": true,
-          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux",
-          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux"
+          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux",
+          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux"
         }
       },
       "seriesOverrides": [],
@@ -776,8 +776,8 @@
       "scopedVars": {
         "clusterid": {
           "selected": true,
-          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux",
-          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux"
+          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux",
+          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux"
         }
       },
       "title": "Cluster - Namespaces",
@@ -844,8 +844,8 @@
       "scopedVars": {
         "clusterid": {
           "selected": true,
-          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux",
-          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux"
+          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux",
+          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux"
         }
       },
       "sparkline": {
@@ -946,8 +946,8 @@
       "scopedVars": {
         "clusterid": {
           "selected": true,
-          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux",
-          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux"
+          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux",
+          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux"
         }
       },
       "seriesOverrides": [],
@@ -1080,8 +1080,8 @@
       "scopedVars": {
         "clusterid": {
           "selected": true,
-          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux",
-          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux"
+          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux",
+          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux"
         }
       },
       "seriesOverrides": [],
@@ -1214,8 +1214,8 @@
       "scopedVars": {
         "clusterid": {
           "selected": true,
-          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux",
-          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux"
+          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux",
+          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux"
         }
       },
       "seriesOverrides": [],
@@ -1348,8 +1348,8 @@
       "scopedVars": {
         "clusterid": {
           "selected": true,
-          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux",
-          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux"
+          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux",
+          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux"
         }
       },
       "seriesOverrides": [],
@@ -1488,8 +1488,8 @@
       "scopedVars": {
         "clusterid": {
           "selected": true,
-          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux",
-          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux"
+          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux",
+          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux"
         }
       },
       "seriesOverrides": [],
@@ -1594,8 +1594,8 @@
       "scopedVars": {
         "clusterid": {
           "selected": true,
-          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux",
-          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux"
+          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux",
+          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux"
         }
       },
       "title": "Node - CPU & Memory",
@@ -1642,8 +1642,8 @@
       "scopedVars": {
         "clusterid": {
           "selected": true,
-          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux",
-          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux"
+          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux",
+          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux"
         }
       },
       "seriesOverrides": [],
@@ -1772,8 +1772,8 @@
       "scopedVars": {
         "clusterid": {
           "selected": true,
-          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux",
-          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux"
+          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux",
+          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux"
         }
       },
       "seriesOverrides": [],
@@ -2400,8 +2400,8 @@
       "scopedVars": {
         "clusterid": {
           "selected": true,
-          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux",
-          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux"
+          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux",
+          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux"
         }
       },
       "title": "Node - Network",
@@ -2450,8 +2450,8 @@
       "scopedVars": {
         "clusterid": {
           "selected": true,
-          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux",
-          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux"
+          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux",
+          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux"
         }
       },
       "seriesOverrides": [],
@@ -2584,8 +2584,8 @@
       "scopedVars": {
         "clusterid": {
           "selected": true,
-          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux",
-          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux"
+          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux",
+          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux"
         }
       },
       "seriesOverrides": [],
@@ -2718,8 +2718,8 @@
       "scopedVars": {
         "clusterid": {
           "selected": true,
-          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux",
-          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux"
+          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux",
+          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux"
         }
       },
       "seriesOverrides": [],
@@ -2852,8 +2852,8 @@
       "scopedVars": {
         "clusterid": {
           "selected": true,
-          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux",
-          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux"
+          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux",
+          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux"
         }
       },
       "seriesOverrides": [],
@@ -2958,8 +2958,8 @@
       "scopedVars": {
         "clusterid": {
           "selected": true,
-          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux",
-          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux"
+          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux",
+          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux"
         }
       },
       "title": "Node - Kubelet Docker Operations",
@@ -3008,8 +3008,8 @@
       "scopedVars": {
         "clusterid": {
           "selected": true,
-          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux",
-          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux"
+          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux",
+          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux"
         }
       },
       "seriesOverrides": [],
@@ -3133,8 +3133,8 @@
       "scopedVars": {
         "clusterid": {
           "selected": true,
-          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux",
-          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux"
+          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux",
+          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux"
         }
       },
       "seriesOverrides": [],
@@ -3225,8 +3225,8 @@
       {
         "allValue": null,
         "current": {
-          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux",
-          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourceGroups/MartinFluxAks/providers/Microsoft.ContainerService/managedClusters/thunderflux"
+          "text": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux",
+          "value": "/subscriptions/77b657a3-ebd7-45c0-aeb5-8e684a2e5297/resourcegroups/FluxAks/providers/Microsoft.ContainerService/managedClusters/AksFlux"
         },
         "datasource": "AzureMonitor",
         "definition": "KubePodInventory | summarize n=count() by ClusterId |project ClusterId ",
