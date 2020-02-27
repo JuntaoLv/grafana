@@ -29,7 +29,7 @@
       "title": "Azure Monitor - Container Insights",
       "tooltip": "Click here to open Azure Monitor Ux for this cluster",
       "type": "link",
-      "url": "https://portal.azure.com/#@mcindustries965.onmicrosoft.com/resource$clusterid/FluxAks"
+      "url": "https://portal.azure.com/#@mcindustries965.onmicrosoft.com/resource$clusterid/AksFlux"
     }
   ],
   "panels": [
